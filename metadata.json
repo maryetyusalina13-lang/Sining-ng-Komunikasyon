@@ -1,0 +1,6 @@
+{
+  "name": "Filipino 1 · Kalipunan ng mga Aralin (BSIT 1C)",
+  "description": "Pangwakas na Pagsusulit sa Filipino 1: Kumpletong website ng mga aralin mula Prelim hanggang Finals na may talakayan, mga halimbawa, biswal na dayagram, at interaktibong pagsasanay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
